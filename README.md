@@ -1,59 +1,31 @@
 <p align="center">
-<img src="https://www.google.com/search?q=https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Animació digital estil hacker">
-</p>
-
-<h1 align="center" style="color:#00aeff;">Benvingut al meu cau digital. Sóc Arcanum.</h1>
-
-<p align="center">
-<img src="https://www.google.com/search?q=https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="50" alt="Icona de seguretat">
-
-
-
-
-
-<em>Estudiant de Batxillerat apassionat per la ciberseguretat, la criptografia i la creació de software que respecta la teva privacitat.</em>
-</p>
-
-<div align="center">
-
-> whoami
-nom: Arcanum
-ubicacio: Espanya
-nivell: Estudiant de Batxillerat
-passions: [Ciberseguretat, Desenvolupament Backend, Criptografia, Open Source]
-missio: Construir una web més segura i privada per a tothom.
-
-</div>
-
-🛡️ Projecte Principal: Missatgeria Segura [Posa-li un nom al projecte!]
-Estic desenvolupant una aplicació de missatgeria ultra-segura construïda sobre tres pilars fonamentals:
-
-🔐 Seguretat Infrangible: Implementant protocols de xifratge d'extrem a extrem d'avantguarda. Les teves claus només existeixen en el teu dispositiu. Si jo no puc llegir els teus missatges, ningú pot.
-
-👁️ Privacitat per Disseny: No es recopilen metadades, no hi ha rastrejadors i no es demanen dades personals. La teva identitat i les teves converses són exclusivament teves.
-
-💎 Codi Transparent i Auditable: El codi és 100% Open Source. Crec en la seguretat a través de la transparència. Qualsevol expert pot verificar el codi per confirmar que és segur i no té portes del darrere.
-
-Enllaç al Repositori del Projecte
-
-🛠️ Les meves Eines de Treball
-<p align="center">
-<a href="https://skillicons.dev">
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dpython,rust,c,cpp,bash,git,linux,docker,vscode,vim%26theme%3Ddark%26perline%3D5" />
-</a>
-</p>
-
-📈 Estadístiques del meu Repositori
-<p align="center">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dteu-usuari-de-github%26show_icons%3Dtrue%26theme%3Dtokyonight%26border_color%3D00aeff%26hide_border%3Dtrue%26count_private%3Dtrue" alt="Estadístiques de GitHub d'Arcanum" />
-
-
-
-
-
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dteu-usuari-de-github%26layout%3Dcompact%26theme%3Dtokyonight%26border_color%3D00aeff%26hide_border%3Dtrue" alt="Llenguatges més usats" />
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=0000FF&size=34&center=true&vCenter=true&width=1100&height=160&lines=Arcanum+App;The+Next+Generation+Messaging+Platform;Created+by+Bilal+Chakroun;Student+at+Pere+Vives+Vich,+Igualada;Secured+with+AES-256+and+RSA-2048;With+the+Collaboration+of+AES+Legend...+Vincent+Rijmen.">
+  </a>
 </p>
 
 <p align="center">
-<img src="https://www.google.com/search?q=https://media.giphy.com/media/I6plI3VNH6hBS/giphy.gif" width="100%" alt="Animació de codi digital blau">
+  <b>To prove the reliability of Arcanum App, it was tested on a high-performance monster machine:</b><br>
+  ⚡ Ultra-fast CPU with <b>128 threads</b> and a staggering <b>528 GB RAM</b>.<br><br>
+  
+  <b>Transparency is absolute:</b><br>
+  ✅ 100% of the code is fully open and visible.<br>
+  ✅ Every logo, icon, and design element is created entirely by me.<br>
+  ✅ Only external components: essential Python libraries.<br><br>
+  
+  <b>Core Values of Arcanum App:</b><br>
+  🔒 Security first: State-of-the-art AES-256 & RSA-2048 encryption.<br>
+  🌍 Built with passion, knowledge, and the vision of global communication freedom.<br>
+  ⚔️ Inspired by legends, designed for the future.<br><br>
+
+  <b>📂 All source code can be found on my GitHub profile.</b>
+</p>
+
+---
+
+<p align="center">
+  <b>🙏 Acknowledgements</b><br>
+  I want to give a huge thank you to my TDR tutor for guiding me throughout the process,<br>
+  and to <b>Vincent Rijmen</b> (AES creator along with Joan Daemen) who gave me valuable advice<br>
+  and explained important security concepts.
 </p>
