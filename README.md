@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=0000FF&size=34&center=true&vCenter=true&width=1100&height=160&lines=Arcanum+App;The+Next+Generation+Messaging+Platform;Created+by+Bilal+Chakroun;Student+at+Pere+Vives+Vich,+Igualada;Secured+with+AES-256+and+RSA-2048;With+the+Collaboration+of+AES+Legend...+Vincent+Rijmen.">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=0000FF&size=60&center=true&vCenter=true&width=1600&height=220&lines=Arcanum+App;The+Next+Generation+Messaging+Platform;Created+by+Bilal+Chakroun;Student+at+Pere+Vives+Vich,+Igualada;Secured+with+AES-256+and+RSA-2048;With+the+Collaboration+of+AES+Legend...;+Vincent+Rijmen;Creator+of+AES;the+most+widely+used+algorithm+in+the+world">
   </a>
 </p>
 
